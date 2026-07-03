@@ -16,3 +16,6 @@
 
 # Session logs (local transcripts)
 thinking/session-logs/
+
+# oh-my-codex / local agent runtime state
+.omx/

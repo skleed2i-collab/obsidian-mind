@@ -40,7 +40,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash -c 'printf \"Session end checklist:\\n- Archive completed projects?\\n- Update indexes?\\n- New notes linked? (orphans are bugs)\\n\"'",
+            "command": "bash -c 'printf \"Session end checklist:\\n- Archive completed projects?\\n- Update indexes?\\n- New notes linked? (orphans are bugs)\\n\" >&2; printf \"{}\\n\"'",
             "timeout": 5
           }
         ]
