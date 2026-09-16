@@ -19,6 +19,7 @@ Incident docs live in `work/incidents/`. See `Incidents.base` for overview.
 
 ## Active Projects
 
+- [[English 90 Day Android Expo Fix]] — english-90day-android Expo 앱의 expo-asset 누락으로 인한 Metro 기동 실패 수정 및 검증
 - [[Hermes June July 2026 Work Capture]] — 2026년 6월~7월 Hermes RTL 작업 캡처 및 Obsidian 미저장 문서 정리
 -
 
